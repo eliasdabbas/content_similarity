@@ -6,4 +6,6 @@
 3. Find/filter/narrow other products based on similar words
 4. Export to CSV
 
-![App overview](content_similarity_screen_grab.mov)
+
+
+[![Watch a quick video](app_screenshot.png)](https://www.youtube.com/watch?v=h4zRygcoNYA)
